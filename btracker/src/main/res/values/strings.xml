@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_desc">Ring</string>
+    <string name="hold_desc">HoldButton</string>
+    <string name="click_desc">ClickButton</string>
+    <string name="turnoff_desc">Shutdown</string>
+    <string name="disconnect_desc">Disconnect</string>
+    <string name="connected_desc">Connected</string>
+    <string name="connecting_desc">Connecting</string>
+    <string name="unknown_desc">Unknown</string>
+
+    <string name="ble_error_write">Ble device error</string>
+
+    <string name="ble_not_supported">Device does not support4.0</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="ble_function_disable">ble function is disable</string>
+    <string name="location_permit_needed_for_ble">Need location permit for bluetooth</string>
+</resources>

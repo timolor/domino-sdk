@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.modules.home.HomeActivity">
+
+    <item
+        android:id="@+id/scan"
+        android:contentDescription="@string/content_description_scan"
+        android:icon="@drawable/ic_bluetooth_search"
+        android:title="@string/dgt_title_scan"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/connected"
+        android:contentDescription="@string/dgt_content_description_connected"
+        android:icon="@drawable/ic_bluetooth_connected"
+        android:title="@string/dgt_title_connected"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/shutdown"
+        android:contentDescription="@string/content_description_shutdown"
+        android:icon="@drawable/ic_shutdown"
+        android:title="@string/dgt_title_shutdown"
+        app:showAsAction="ifRoom" />
+
+</menu>

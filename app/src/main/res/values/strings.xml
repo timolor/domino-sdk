@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DIGIT Tracker</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="dgt_title_home">DGT Demo</string>
+    <string name="content_description_scan">Scan</string>
+    <string name="dgt_content_description_connected">Connected</string>
+    <string name="content_description_disconnect">Disconnect</string>
+    <string name="dgt_title_scan">Scan</string>
+    <string name="dgt_title_connected">Connected</string>
+    <string name="dgt_title_disconnect">Disconnect</string>
+    <string name="content_description_shutdown">Shutdown</string>
+    <string name="dgt_title_shutdown">Shutdown</string>
+
+    <!--itrack desc-->
+    <string name="test_result_succ">Pass</string>
+    <string name="test_result_fail">Failed</string>
+    <string name="track_name">Domino</string>
+    <string name="track_mac_address">FF:FF:FF:FF:FF:FF</string>
+    <string name="track_state">Status</string>
+    <string name="rssi_value">0.0</string>
+</resources>
